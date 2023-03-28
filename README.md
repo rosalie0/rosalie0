@@ -5,7 +5,17 @@
 </picture>
 
 
-### Hi there 👋
+## About me
+
+Hi, I'm Rose! I'm a fullstack web developer who graduated from Fullstack Academy.
+
+- 👩‍💻 My pronouns are she/her
+- 🔭 I’m currently working on <a href="https://rosalie0.github.io/" target="_blank">my portfolio website</a>
+- 🌱 I’m looking to learn React Native to build an app to track Dialectical Behavioral Therapy (DBT) Mindfulness Practices and Activities
+- 💬 Ask me about what my favorite Bloodborne build is and why 💀
+
+
+
 
 <!--
 **rosalie0/rosalie0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
