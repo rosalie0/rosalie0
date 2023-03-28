@@ -1,3 +1,10 @@
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/xCxX3MQ.png">
+ <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/WSnK2fv.png">
+ <img alt="A cartoon drawing of a girl with glasses and long brown hair smiling - that is me, Rose!" src="https://i.imgur.com/xCxX3MQ.png">
+</picture>
+
+
 ### Hi there 👋
 
 <!--
