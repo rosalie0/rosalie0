@@ -10,11 +10,22 @@
 Hi, I'm Rose! I'm a fullstack web developer who graduated from Fullstack Academy.
 
 - 👩‍💻 My pronouns are she/her
-- 🔭 I’m currently working on <a href="https://rosalie0.github.io/" target="_blank">my portfolio website</a>
-- 🌱 I’m looking to learn React Native to build an app to track Dialectical Behavioral Therapy (DBT) Mindfulness Practices and Activities
 - 💬 Ask me about what my favorite Bloodborne build is and why 💀
 
+### Tech I want to explore
+- 📱 React Native - Because who hasn't had an idea for a cool app at some point! Being able to make mobile apps while still in Javascript is super exciting.
+- 📈 GraphQL - because I hear that word all the time and know nothing about it!
+- 📀 SQL without any ORMs
+- 🧑‍🎨 'No-code' website builders like Framer, Webflow, and Wordpress. Interested to learn about what exactly they can do, and what they can't.
+- TESTING! I loved writing test cases for my projects in C++ in college (writing the cases was easy and fun, getting them to pass was another story...) Including but not limited to: chai, jasmine, jest, cypress, and playwright.
 
+
+### 🌱 What I'm actively building
+-  I'm constantly updating <a href="https://rosalie0.github.io/" target="_blank">my portfolio website</a> with any neat front end tips & tricks I learn along the way
+-  A modern landing page for a cake shop (not officially affiliated) to practice my front-end skills
+
+### 🔭 What I'm thinking of building
+- Mobile app with React Native to track Dialectical Behavioral Therapy (DBT) Mindfulness Practices and Activities, combining a pomdoro timer & mindfulness practice.
 
 
 <!--
