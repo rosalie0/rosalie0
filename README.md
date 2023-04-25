@@ -23,6 +23,7 @@ Hi, I'm Rose! I'm a fullstack web developer who graduated from Fullstack Academy
 ### 🌱 What I'm actively building
 -  I'm constantly updating <a href="https://rosalie0.github.io/" target="_blank">my portfolio website</a> with any neat front end tips & tricks I learn along the way
 -  A modern landing page for a cake shop (not officially affiliated) to practice my front-end skills
+-  SQL, via cs50's SQL course.
 
 ### 🔭 What I'm thinking of building
 - Mobile app with React Native to track Dialectical Behavioral Therapy (DBT) Mindfulness Practices and Activities, combining a pomdoro timer & mindfulness practice.
